@@ -8,11 +8,12 @@ públicos y de negocio para apoyar la toma de decisiones.
 - **Python:** pandas, numpy, scikit-learn
 - **SQL:** PostgreSQL
 - **BI:** Tableau
-- **Herramientas:** Git, GitHub, Jupyter Notebook, VS
+- **Herramientas:** Git, GitHub, Jupyter Notebook, VS Code
 
 ## 📌 Proyecto destacado
 - **Regression practice on flight prices**  
-  EDA + modelos de regresión (Linear, Ridge, Random Forest).  
+ EDA + modelos de regresión (Linear, Ridge, Random Forest) para predicción de precios de vuelos,
+evaluados con MAE, RMSE y R².  
   👉 https://github.com/joseaseves-alt/Regression-practice-on-flight-prices-
 
 ## 🎯 Intereses
