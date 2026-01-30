@@ -22,10 +22,3 @@ públicos y de negocio para apoyar la toma de decisiones.
 
 📍 Chile  
 📫 Contacto: jose.a.seves@gmail.com
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on public transportation
-- 🌱 I’m currently learning Machine Learning and neural networks
-- 💬 I am looking for a job as a junior analyst
