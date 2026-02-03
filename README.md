@@ -1,8 +1,7 @@
-# 👋 Hola, soy José Seves
+👋 Hi, I'm José Seves
 
-Soy **Junior Data Analyst** con formación en Sociología, enfocado en análisis exploratorio
-de datos (EDA), estadística aplicada y modelos predictivos. Me interesa trabajar con datos
-públicos y de negocio para apoyar la toma de decisiones.
+I am a Junior Data Analyst with a background in Sociology, focused on Exploratory Data Analysis (EDA), applied statistics, and predictive modeling.  
+I am interested in working with public and business data to support data-driven decision-making.
 
 ## 🔧 Stack
 - **Python:** pandas, numpy, scikit-learn
@@ -10,11 +9,16 @@ públicos y de negocio para apoyar la toma de decisiones.
 - **BI:** Tableau
 - **Herramientas:** Git, GitHub, Jupyter Notebook, VS Code
 
-## 📌 Proyecto destacado
-- **Regression practice on flight prices**  
- EDA + modelos de regresión (Linear, Ridge, Random Forest) para predicción de precios de vuelos,
-evaluados con MAE, RMSE y R².  
+## 📌 Featured Projects
+
+- **Regression Practice on Flight Prices**  
+  Exploratory Data Analysis (EDA) and supervised regression modeling (Linear Regression, Ridge Regression, Random Forest) to predict flight prices.  
+  Models were evaluated using MAE, RMSE, and R² metrics to compare predictive performance.  
   👉 https://github.com/joseaseves-alt/Regression-practice-on-flight-prices-
+
+- **Customer Segmentation – Market Analytics**  
+  Customer segmentation analysis using unsupervised learning (K-Means), combining income, consumption behavior, and sociodemographic variables to identify differentiated customer profiles and actionable marketing insights.  
+  👉 https://github.com/joseaseves-alt/Customer-Segmentation-Market-Analytics
 
 ## 🎯 Intereses
 - Data analysis & visualization
