@@ -1,4 +1,4 @@
-👋 Hi, I'm José Seves
+👋 # Hi, I'm José Seves
 
 I am a Junior Data Analyst with a background in Sociology, focused on Exploratory Data Analysis (EDA), applied statistics, and predictive modeling.  
 I am interested in working with public and business data to support data-driven decision-making.
